@@ -9,8 +9,9 @@
 
 <p align="center">Private AI, behind the mask.</p>
 
-Moretta is a private AI chat. You chat with the AI model of your choice, and your chat
-history stays in your browser. Image, video, and onchain research are coming.
+Moretta is a private AI chat. You chat with the AI model of your choice and make images and
+videos in the same chat. Your chat history stays in your browser. Onchain research is
+coming.
 
 Hold at least $10 of $MORETTA, and your tank fills with free credit every hour.
 
@@ -18,11 +19,12 @@ Hold at least $10 of $MORETTA, and your tank fills with free credit every hour.
 
 | Channel | Link |
 |---|---|
+| App | [app.moretta.ai](https://app.moretta.ai) |
 | Website | [moretta.ai](https://moretta.ai) |
 | X | [@morettadotai](https://x.com/morettadotai) |
 | Email | more@moretta.ai |
 | GitHub | [github.com/morettaai](https://github.com/morettaai) |
-| Token | $MORETTA on Solana. Moretta publishes the contract address at launch, here and on the website. |
+| Token | $MORETTA on Solana, on pump.fun. Contract address: `5noESNFxmUYNcznHQEGjs9UQJ9LrL2aoFJp4HnSjpump` |
 
 Moretta never asks for your seed phrase or your private key. A link that is not in this
 table is not a Moretta link.
