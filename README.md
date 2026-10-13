@@ -9,9 +9,10 @@
 
 <p align="center">Private AI, behind the mask.</p>
 
-Moretta is a private AI chat. You chat with the AI model of your choice and make images and
-videos in the same chat. Your chat history stays in your browser. Onchain research is
-coming.
+Moretta is a private AI chat. You chat with the AI model of your choice, make images and
+videos, and research Solana tokens with an AI agent in the same chat. Paste the contract address
+of a meme coin, and Meme mode makes a short video of its meme. Your chat history stays in your
+browser.
 
 Hold at least $10 of $MORETTA, and your tank fills with free credit every hour.
 
@@ -31,5 +32,5 @@ table is not a Moretta link.
 
 ## Repositories
 
-- [docs](https://github.com/morettaai/docs): how Moretta works, including the tank, privacy, and the token.
+- [docs](https://github.com/morettaai/docs): how Moretta works, including the tank, privacy, onchain research, Meme mode, and the token.
 - [brand-kit](https://github.com/morettaai/brand-kit): the Moretta logo files and the rules for their use.
